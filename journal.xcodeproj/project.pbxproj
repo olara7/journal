@@ -18,6 +18,7 @@
 		556029F925822460003B91B5 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 556029F825822460003B91B5 /* FeedViewController.swift */; };
 		55602A01258225B5003B91B5 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55602A00258225B5003B91B5 /* LoginViewController.swift */; };
 		55602A0625822C36003B91B5 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55602A0525822C36003B91B5 /* CameraViewController.swift */; };
+		55602A212582E836003B91B5 /* NoteCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55602A202582E836003B91B5 /* NoteCell.swift */; };
 		C09B69718573EA2FB9CB9DDE /* Pods_journal_journalUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 489A2CC9E33C8E5D530B7DB5 /* Pods_journal_journalUITests.framework */; };
 		CCB9374734A1A1015C16760E /* Pods_journal.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 29F81AE717BBDCD67C50CFB9 /* Pods_journal.framework */; };
 /* End PBXBuildFile section */
@@ -60,6 +61,7 @@
 		556029F825822460003B91B5 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		55602A00258225B5003B91B5 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		55602A0525822C36003B91B5 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
+		55602A202582E836003B91B5 /* NoteCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteCell.swift; sourceTree = "<group>"; };
 		71FC93925E9CF5B1A4245E73 /* Pods-journal-journalUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-journal-journalUITests.release.xcconfig"; path = "Target Support Files/Pods-journal-journalUITests/Pods-journal-journalUITests.release.xcconfig"; sourceTree = "<group>"; };
 		74AB9806F40BF2D2EA18930B /* Pods-journal-journalUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-journal-journalUITests.debug.xcconfig"; path = "Target Support Files/Pods-journal-journalUITests/Pods-journal-journalUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		8197B335F945165EBFC43B93 /* Pods-journal.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-journal.debug.xcconfig"; path = "Target Support Files/Pods-journal/Pods-journal.debug.xcconfig"; sourceTree = "<group>"; };
@@ -139,6 +141,7 @@
 				556029F825822460003B91B5 /* FeedViewController.swift */,
 				55602A00258225B5003B91B5 /* LoginViewController.swift */,
 				55602A0525822C36003B91B5 /* CameraViewController.swift */,
+				55602A202582E836003B91B5 /* NoteCell.swift */,
 			);
 			path = journal;
 			sourceTree = "<group>";
@@ -415,6 +418,7 @@
 				55602A01258225B5003B91B5 /* LoginViewController.swift in Sources */,
 				55602A0625822C36003B91B5 /* CameraViewController.swift in Sources */,
 				556029B2258220CB003B91B5 /* AppDelegate.swift in Sources */,
+				55602A212582E836003B91B5 /* NoteCell.swift in Sources */,
 				556029F925822460003B91B5 /* FeedViewController.swift in Sources */,
 				556029B4258220CB003B91B5 /* SceneDelegate.swift in Sources */,
 			);
